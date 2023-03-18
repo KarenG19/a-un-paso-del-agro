@@ -1,18 +1,20 @@
 # Descripción
-A un paso del agro es una plataforma web que permite la comercialización directa entre el agricultor y el consumidor, eliminando intermediarios en el proceso de compra y venta de productos agrícolas, mejorando los ingresos y la calidad de vida de los agricultores.
+A un paso del agro es un sitio web que busca permitir la comercialización directa entre el agricultor y el consumidor, eliminando intermediarios en el proceso de compra y venta de productos agrícolas, mejorando los ingresos y la calidad de vida de los agricultores.
 
-# Herramientas tecnológicas utilizadas
+Este sitio web fue desarrollado en 2021 como proyecto final de la materia Base de Datos de la carrera Ingeniería de Sistemas y Computación de la Universidad Tecnológica de Pereira.
+
+# Herramientas y tecnologías utilizadas
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
 - PHP
+- JavaScript
 - MySQL
 - XAMPP
 - Visual Studio Code
 
-# Pasos para ejecutar la plataforma web
-1. Descargar la carpeta aunpasodelagro.zip, descomprimirla y copiarla en: SYSTEM (C:) -> xampp -> htdocs
+# Pasos para ejecutar el sitio web
+1. Clonar el repositorio en: SYSTEM (C:) -> xampp -> htdocs
 
 2. Abrir la carpeta en el editor de código.
 
@@ -20,29 +22,29 @@ A un paso del agro es una plataforma web que permite la comercialización direct
 
 4. Ingresar a http://localhost/aunpasodelagro/ en donde encontrará la siguiente interfaz que contiene dos secciones: la primera para iniciar sesión y la segunda para registrarse. 
 
-  ![image](https://user-images.githubusercontent.com/69874524/225938384-f898df6b-e685-441f-86ee-6c49dd1273e3.png)
-  
+  ![image](https://user-images.githubusercontent.com/69874524/226078931-7e0407e7-cdb4-4043-840f-5a24f61be7da.png)
+
 5. Para ingresar como administrador digitar los siguientes datos:
-  Usuario: Karen_G
-  Contraseña: 123456
+    - Usuario: Admin
+    - Contraseña: 13579
   
 6. Al ingresar encontrará la siguiente interfaz que contiene el menú del administrador, con las siguientes opciones: agregar, editar y eliminar productos al igual que productores y la opción de reportes que contiene un informe con las calificaciones que los usuarios les han dado a los productos agrícolas.
 
-  ![image](https://user-images.githubusercontent.com/69874524/225938814-f9d8e7a8-31e8-4289-811b-c316af4ce3c0.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939358-d4d69878-a405-4b22-aca1-01e60722c2f4.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939388-3b7c6a4e-707d-4a0b-818f-5ca0931c53df.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939439-712eb1e5-8b9d-4842-9575-a05125fc5d5e.png)
-  
+  ![image](https://user-images.githubusercontent.com/69874524/226079321-57afa8fa-8e27-4393-9bd3-f38b292d381a.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079342-6a2f1cfd-6ca2-4134-b723-5733201b85c5.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079357-711d89e7-a058-43f3-8b37-f514665890af.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079378-773bfbef-49e8-4861-9329-a06ab159b2ab.png)
+
 7. Para ingresar como usuario digitar los siguientes datos:
-  Usuario: Felipe
-  Contraseña: felipe19
+    - Usuario: User1
+    - Contraseña: 02468
   
 8. Al ingresar encontrará la siguiente interfaz que contiene el menú del usuario, con las siguientes opciones: ver productos, buscar producto y publicar producto.
 
-  ![image](https://user-images.githubusercontent.com/69874524/225939789-8be88cb6-e715-486e-bc73-a5b58bb79157.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939821-accf5b11-0e86-4b26-8ba7-0a25ac354c4f.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939868-3e8fe86c-1b52-48f3-9864-58204d9aa8e4.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939896-f704c461-3da5-4637-a6c0-8857b65fae68.png)
-  ![image](https://user-images.githubusercontent.com/69874524/225939920-6a536349-5d31-40f8-8608-f5dd19a38377.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079446-06837646-2e82-446a-a1d6-aa8dac2b985b.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079459-74b0dd48-1b73-4ffb-8bb6-ee90d68383ec.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079469-ef525ffd-cd76-41ab-ab07-47ac52957341.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079671-c7cb1fa9-61f6-4f87-8253-db163e698b0a.png)
+  ![image](https://user-images.githubusercontent.com/69874524/226079861-4a2630a9-5623-4f42-89f4-20f277955720.png)
   
   
