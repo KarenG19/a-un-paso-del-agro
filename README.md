@@ -1,9 +1,9 @@
-# Descripción
+# Descripción :page_facing_up:
 A un paso del agro es un sitio web que busca permitir la comercialización directa entre el agricultor y el consumidor, eliminando intermediarios en el proceso de compra y venta de productos agrícolas, mejorando los ingresos y la calidad de vida de los agricultores.
 
 Este sitio web fue desarrollado en 2021 como proyecto final de la materia Base de Datos de la carrera Ingeniería de Sistemas y Computación de la Universidad Tecnológica de Pereira.
 
-# Herramientas y tecnologías utilizadas
+# Herramientas y tecnologías utilizadas :computer:
 - HTML5
 - CSS3
 - Bootstrap
@@ -13,10 +13,10 @@ Este sitio web fue desarrollado en 2021 como proyecto final de la materia Base d
 - XAMPP
 - Visual Studio Code
 
-# Pasos para ejecutar el sitio web
+# Pasos para ejecutar el sitio web :clipboard:
 1. Clonar el repositorio en: SYSTEM (C:) -> xampp -> htdocs
 
-2. Abrir la carpeta en el editor de código.
+2. Abrir la carpeta en el editor de código de preferencia.
 
 3. Iniciar Apache y MySQL en el XAMPP Control Panel, ingresar a http://localhost/phpmyadmin/ e importar el archivo aunpasodelagro.sql, esta es la base de datos que se encuentra en la anterior carpeta.
 
